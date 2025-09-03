@@ -53,7 +53,7 @@ Polynomial Regression
 
 MSE: 2652050483.9419575
 
-R²: 0.6588 (much stronger fit)
+R²: 0.6588 (stronger fit)
 
 ➡️ Polynomial regression demonstrated a significant improvement, showing that house prices are influenced by non-linear relationships between features.
 
